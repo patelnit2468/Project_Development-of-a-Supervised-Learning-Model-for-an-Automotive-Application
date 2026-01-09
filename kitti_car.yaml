@@ -1,0 +1,11 @@
+# Path to the dataset root (absolute or relative to your training script)
+path: d:/THI/AIAS_Project/dataset/data_object_image_2/training/kitti_split
+
+# Subfolders for images
+train: train/images
+val: val/images
+test: test/images
+
+# Class definition
+nc: 1           # Number of classes
+names: ['Car']  # We are only detecting 'Car'
