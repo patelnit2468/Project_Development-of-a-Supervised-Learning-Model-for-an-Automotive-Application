@@ -1,0 +1,6 @@
+ultralytics
+pandas
+matplotlib
+opencv-python
+torch
+torchvision
