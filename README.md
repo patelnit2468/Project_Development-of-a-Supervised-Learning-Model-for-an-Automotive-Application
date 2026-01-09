@@ -19,6 +19,7 @@ The model was trained for **100 epochs** on an NVIDIA RTX 2050.
 ## Key Results
 ### Accuracy and Loss
 Detailed analysis of the training process shows a steady increase in $mAP50$ and a consistent drop in both Training and Validation loss.
+<img width="1000" height="600" alt="Figure_100epoch" src="https://github.com/user-attachments/assets/476c0df8-0625-4ffe-903b-a813385aaca5" />
 
 
 
